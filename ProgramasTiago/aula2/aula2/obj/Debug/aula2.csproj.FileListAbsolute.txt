@@ -1,0 +1,7 @@
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\bin\Debug\aula2.exe.config
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\bin\Debug\aula2.exe
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\bin\Debug\aula2.pdb
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\obj\Debug\aula2.csprojAssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\obj\Debug\aula2.csproj.CoreCompileInputs.cache
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\obj\Debug\aula2.exe
+C:\Users\11F\Desktop\Programas do Tiago\aula2\aula2\obj\Debug\aula2.pdb

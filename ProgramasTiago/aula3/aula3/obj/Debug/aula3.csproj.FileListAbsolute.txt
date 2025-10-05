@@ -1,0 +1,7 @@
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\bin\Debug\aula3.exe.config
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\bin\Debug\aula3.exe
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\bin\Debug\aula3.pdb
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\obj\Debug\aula3.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\obj\Debug\aula3.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\obj\Debug\aula3.exe
+C:\Users\11ºF\Desktop\Programas\aula3\aula3\obj\Debug\aula3.pdb
