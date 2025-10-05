@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<script language="JavaScript" type="text/javascript">
+	function mascara_Numero(campo,leg,msg)
+	{
+		valor = document.getElementById(campo.id).value;
+		legenda = document.getElementById(leg);
+		pos=0;
+			while(pos < valor.length && valor!="")
+			{
+				if(( valor.charCodeAt(pos)!= 144 && valor / valor >0))
+					legenda.innerHTML ="";
+						else
+						{legenda.innerHTML = "<font color='red'>"+ msg + "</font>";
+						return false;
+						}
+						po++
+						}
+						};
+						</script>
+						<body>
+						<form name="formCadastro" id=2formulario" method="post" action="#">
+							codigo:<br/>
+							<input type="text" name="txtCodigo" id="Numero" size="10" maxlength="6" onkeyup="mascara_Numero(this,'codigo','Digite apenas números')"/>
+							<label id="codigo"></label> <br/>
+							</form>
+							</body>
+
+</html>

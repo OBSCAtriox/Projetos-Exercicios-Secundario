@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Calculadora</title>
+</head>
+
+<script language="javascript">
+	//função soma
+	function soma(){
+		var n1 = prompt("Digite 1º numero","");
+		var n2 = prompt("Digite 2º numero","");
+		n1 = parseFloat(n1);
+		n2 = parseFloat(n2);
+		var calculo = n1+n2;
+		document.write("A soma de "+n1+" + "+n2+" é "+calculo);
+		}
+		
+	//função subtração 
+	function subtracao(){
+		var n1 = prompt("Digite 1º numero","");
+		var n2 = prompt("Digite 2º numero","");
+		n1 = parseFloat(n1);
+		n2 = parseFloat(n2);
+		var calculo = n1-n2;
+	document.write("A subtração de "+n1+" - "+n2+" é "+calculo);
+	}
+	//função multiplicação
+	
+	function multiplicacao(){
+		var n1 = prompt("Digite 1º numero","");
+		var n2 = prompt("Digite 2º numero","");
+		n1 = parseFloat(n1);
+		n2 = parseFloat(n2);
+		var calculo = n1*n2;
+	document.write("A subtração de "+n1+" * "+n2+" é "+calculo);
+}
+
+//funcao divisao
+
+	function divisao(){
+		var n1 = prompt("Digite 1º numero","");
+		var n2 = prompt("Digite 2º numero","");
+		n1 = parseFloat(n1);
+		n2 = parseFloat(n2);
+		var calculo = n1/n2;
+	document.write("A subtração de "+n1+" / "+n2+" é "+calculo);
+}
+
+//funcao mod 
+
+	function mod(){
+		var n1 = prompt("Digite 1º numero","");
+		var n2 = prompt("Digite 2º numero","");
+		n1 = parseFloat(n1);
+		n2 = parseFloat(n2);
+		var calculo = n1%n2;
+	document.write("A subtração de "+n1+" mod "+n2+" é "+calculo);
+}
+</script>
+
+<h2 align=center>Qual operação deseja utilizar ?
+<table><tr>
+<td><input type=button value="soma" onClick="soma();"></td>
+<td><input type=button value="Substração" onClick="subtracao();"></td>
+<td><input type=button value="Multiplicação" onClick="multiplicacao();"></td>
+<td><input type=button value="Divisão" onClick="divisao();"></td>
+<td><input type=button value="Mod" onClick="mod();"></td>
+</table>
+<font color=red size=2>OBS: calculo somente com dois números</font>
+</h2>
+
+
+	
+
+
+
+</body>
+</html>

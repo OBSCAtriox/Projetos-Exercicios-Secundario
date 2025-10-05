@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<h2>JavaScript if</h2>
+<p>Exibir "Bom dia!" se a hora for inferior ás 17:00:</p>
+<p id="demo">Boa Noite</p>
+
+<script>
+const hour = new Date().getHours();
+let greeting;
+
+if (hour < 18){
+	greeting = "Turno de dia";
+	}else {
+		greeting = "Turno da noite";
+		}
+		
+		document.getElementById("demo").innerHTML = greeting;
+	</script>
+
+
+	
+
+
+
+</body>
+</html>
