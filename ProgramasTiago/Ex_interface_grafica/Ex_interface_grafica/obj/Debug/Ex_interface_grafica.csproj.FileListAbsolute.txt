@@ -1,0 +1,6 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\Ex_interface_grafica\Ex_interface_grafica\obj\Debug\Ex_interface_grafica.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Ex_interface_grafica\Ex_interface_grafica\obj\Debug\Ex_interface_grafica.Form1.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\Ex_interface_grafica\Ex_interface_grafica\obj\Debug\Ex_interface_grafica.Form2.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\Ex_interface_grafica\Ex_interface_grafica\obj\Debug\Ex_interface_grafica.Properties.Resources.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\Ex_interface_grafica\Ex_interface_grafica\obj\Debug\Ex_interface_grafica.csproj.GenerateResource.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Ex_interface_grafica\Ex_interface_grafica\obj\Debug\Ex_interface_grafica.csproj.CoreCompileInputs.cache

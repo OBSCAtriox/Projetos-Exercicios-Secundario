@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A6397A4D-A554-4733-9801-9239DBA802B5}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Ex_interface_grafica</RootNamespace>
+    <AssemblyName>Ex_interface_grafica</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Arte1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arte1.Designer.cs">
+      <DependentUpon>Arte1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arte2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arte2.Designer.cs">
+      <DependentUpon>Arte2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Arte3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Arte3.Designer.cs">
+      <DependentUpon>Arte3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CulturaGeral.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CulturaGeral.Designer.cs">
+      <DependentUpon>CulturaGeral.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CulturaGeral2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CulturaGeral2.Designer.cs">
+      <DependentUpon>CulturaGeral2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CulturaGeral3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CulturaGeral3.Designer.cs">
+      <DependentUpon>CulturaGeral3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desporto3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desporto3.Designer.cs">
+      <DependentUpon>Desporto3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filmes1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filmes1.Designer.cs">
+      <DependentUpon>Filmes1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filmes2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filmes2.Designer.cs">
+      <DependentUpon>Filmes2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filmes3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filmes3.Designer.cs">
+      <DependentUpon>Filmes3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desporto1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desporto1.Designer.cs">
+      <DependentUpon>Desporto1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Desporto2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Desporto2.Designer.cs">
+      <DependentUpon>Desporto2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gasatronomia2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gasatronomia2.Designer.cs">
+      <DependentUpon>Gasatronomia2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Gastronomia1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Gastronomia1.Designer.cs">
+      <DependentUpon>Gastronomia1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="gastronomia3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="gastronomia3.Designer.cs">
+      <DependentUpon>gastronomia3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musica1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musica1.Designer.cs">
+      <DependentUpon>Musica1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musica2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musica2.Designer.cs">
+      <DependentUpon>Musica2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Musica3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Musica3.Designer.cs">
+      <DependentUpon>Musica3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="RespostaErrada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RespostaErrada.Designer.cs">
+      <DependentUpon>RespostaErrada.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Arte1.resx">
+      <DependentUpon>Arte1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arte2.resx">
+      <DependentUpon>Arte2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Arte3.resx">
+      <DependentUpon>Arte3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CulturaGeral.resx">
+      <DependentUpon>CulturaGeral.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CulturaGeral2.resx">
+      <DependentUpon>CulturaGeral2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CulturaGeral3.resx">
+      <DependentUpon>CulturaGeral3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desporto3.resx">
+      <DependentUpon>Desporto3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filmes1.resx">
+      <DependentUpon>Filmes1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filmes2.resx">
+      <DependentUpon>Filmes2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filmes3.resx">
+      <DependentUpon>Filmes3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desporto1.resx">
+      <DependentUpon>Desporto1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Desporto2.resx">
+      <DependentUpon>Desporto2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gasatronomia2.resx">
+      <DependentUpon>Gasatronomia2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Gastronomia1.resx">
+      <DependentUpon>Gastronomia1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="gastronomia3.resx">
+      <DependentUpon>gastronomia3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musica1.resx">
+      <DependentUpon>Musica1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musica2.resx">
+      <DependentUpon>Musica2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Musica3.resx">
+      <DependentUpon>Musica3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="RespostaErrada.resx">
+      <DependentUpon>RespostaErrada.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
