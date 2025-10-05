@@ -1,0 +1,2 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula9.5\Aula9.5\obj\Debug\Aula9.5.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula9.5\Aula9.5\obj\Debug\Aula9.5.csproj.CoreCompileInputs.cache
