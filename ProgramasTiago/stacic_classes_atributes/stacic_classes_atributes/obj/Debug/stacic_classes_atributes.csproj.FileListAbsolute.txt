@@ -1,0 +1,7 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\bin\Debug\stacic_classes_atributes.exe.config
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\bin\Debug\stacic_classes_atributes.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\bin\Debug\stacic_classes_atributes.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\obj\Debug\stacic_classes_atributes.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\obj\Debug\stacic_classes_atributes.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\obj\Debug\stacic_classes_atributes.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\stacic_classes_atributes\stacic_classes_atributes\obj\Debug\stacic_classes_atributes.pdb

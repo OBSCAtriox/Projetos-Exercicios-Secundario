@@ -1,0 +1,13 @@
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\bin\Debug\Windows_Forms_BÁSICO.exe.config
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\bin\Debug\Windows_Forms_BÁSICO.exe
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\bin\Debug\Windows_Forms_BÁSICO.pdb
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.csproj.AssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.csproj.SuggestedBindingRedirects.cache
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.Form1.resources
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.Properties.Resources.resources
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.csproj.GenerateResource.cache
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.csproj.CoreCompileInputs.cache
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.exe
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.pdb
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.Form2.resources
+C:\Users\11F\Desktop\Programas do Tiago\Windows_Forms_BÁSICO\Windows_Forms_BÁSICO\obj\Debug\Windows_Forms_BÁSICO.Form3.resources
