@@ -1,0 +1,10 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\bin\Debug\ListBox_CheckBox_WindowsForms.exe.config
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\bin\Debug\ListBox_CheckBox_WindowsForms.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\bin\Debug\ListBox_CheckBox_WindowsForms.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.Form1.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.Properties.Resources.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.csproj.GenerateResource.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\ListBox_CheckBox_WindowsForms\ListBox_CheckBox_WindowsForms\obj\Debug\ListBox_CheckBox_WindowsForms.pdb

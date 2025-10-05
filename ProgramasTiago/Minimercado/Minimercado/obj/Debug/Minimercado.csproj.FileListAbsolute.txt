@@ -1,0 +1,8 @@
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\bin\Debug\Minimercado.exe.config
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\bin\Debug\Minimercado.exe
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\bin\Debug\Minimercado.pdb
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\obj\Debug\Minimercado.csproj.AssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\obj\Debug\Minimercado.csproj.SuggestedBindingRedirects.cache
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\obj\Debug\Minimercado.csproj.CoreCompileInputs.cache
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\obj\Debug\Minimercado.exe
+C:\Users\11F\Desktop\Programas do Tiago\Minimercado\Minimercado\obj\Debug\Minimercado.pdb

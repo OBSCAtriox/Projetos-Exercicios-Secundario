@@ -1,0 +1,35 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csprojAssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.exe.config
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.exe
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.pdb
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.AssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Form1.resources
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Menu.resources
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Properties.Resources.resources
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.GenerateResource.cache
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.CoreCompileInputs.cache
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.exe
+C:\Users\11F\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.pdb
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.AssemblyReference.cache
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.SuggestedBindingRedirects.cache
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.exe
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.pdb
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.exe.config
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.exe
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.pdb
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Form1.resources
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Menu.resources
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Properties.Resources.resources
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.GenerateResource.cache
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.exe.config
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\bin\Debug\Pauta_Escolar_Projeto_Final.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Form1.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Menu.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.Properties.Resources.resources
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.GenerateResource.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Pauta_Escolar_Projeto_Final\Pauta_Escolar_Projeto_Final\obj\Debug\Pauta_Escolar_Projeto_Final.csproj.CoreCompileInputs.cache
