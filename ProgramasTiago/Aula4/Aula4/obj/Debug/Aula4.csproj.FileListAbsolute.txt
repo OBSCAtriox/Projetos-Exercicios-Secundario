@@ -1,0 +1,14 @@
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\bin\Debug\Aula4.exe
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\bin\Debug\Aula4.pdb
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.csprojAssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.exe
+C:\Users\11F\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\bin\Debug\Aula4.exe.config
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\bin\Debug\Aula4.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\bin\Debug\Aula4.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula4\Aula4\obj\Debug\Aula4.pdb

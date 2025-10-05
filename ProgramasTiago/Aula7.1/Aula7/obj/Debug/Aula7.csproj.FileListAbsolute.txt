@@ -1,0 +1,7 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\bin\Debug\Aula7.exe.config
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\bin\Debug\Aula7.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\bin\Debug\Aula7.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\obj\Debug\Aula7.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\obj\Debug\Aula7.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\obj\Debug\Aula7.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Aula7\Aula7\obj\Debug\Aula7.pdb

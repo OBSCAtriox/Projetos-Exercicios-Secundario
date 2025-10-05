@@ -1,0 +1,8 @@
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\bin\Debug\Aula6.exe.config
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\bin\Debug\Aula6.exe
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\bin\Debug\Aula6.pdb
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\obj\Debug\Aula6.csproj.AssemblyReference.cache
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\obj\Debug\Aula6.csproj.SuggestedBindingRedirects.cache
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\obj\Debug\Aula6.csproj.CoreCompileInputs.cache
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\obj\Debug\Aula6.exe
+C:\Users\11F\Desktop\Programas do Tiago\Aula6\Aula6\obj\Debug\Aula6.pdb
