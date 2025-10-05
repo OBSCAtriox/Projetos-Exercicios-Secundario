@@ -1,0 +1,14 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\bin\Debug\Heranças.exe.config
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\bin\Debug\Heranças.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\bin\Debug\Heranças.pdb
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.csproj.CoreCompileInputs.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.exe
+C:\Users\11ºF\Desktop\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.pdb
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\bin\Debug\Heranças.exe.config
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\bin\Debug\Heranças.exe
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\bin\Debug\Heranças.pdb
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.csproj.SuggestedBindingRedirects.cache
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.csproj.CoreCompileInputs.cache
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.exe
+C:\Users\cruzt\OneDrive\Ambiente de Trabalho\Programas do Tiago\Heranças\Heranças\obj\Debug\Heranças.pdb
