@@ -1,0 +1,2 @@
+C:\Users\11ºF\Desktop\Programas do Tiago\Desafio3\Desafio3\obj\Debug\Desafio3.csprojAssemblyReference.cache
+C:\Users\11ºF\Desktop\Programas do Tiago\Desafio3\Desafio3\obj\Debug\Desafio3.csproj.CoreCompileInputs.cache
